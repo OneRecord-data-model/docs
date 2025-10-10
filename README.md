@@ -6,7 +6,7 @@ Tavoite:
 Mahdollistaa yhteentoimiva ja uudelleenkäytettävä transaktiotiedonvaihto rakennusprojektin osapuolten välillä hyödyntämällä Peppol-verkkoa ja ontologiaan perustuvaa tietomallia.
 
 Toimija:
-Rakennustuotetoimittaja.
+Lähettäjä - vastaanottaja (esim. Rakennustuotetoimittaja/urakoitsija, Rakennustuotetoimittaja/tuotevalmistaja).
 
 Käyttötapaus:
-Rakennustuotetoimittajana haluan lähettää ja vastaanottaa standardoituja sähköisiä liiketoimintasanomia (esim. tilaus, lähetysilmoitus, vastaanottokuittaus) Peppol-verkon kautta siten, että yhteinen ontologia varmistaa tietojen yhdenmukaisuuden ja aiemmin luotua dataa voidaan hyödyntää prosessin myöhemmissä vaiheissa (suunnittelu–valmistus–toimitus–asennus).
+Rakennustuotetoimittajana haluan lähettää ja vastaanottaa standardoituja sähköisiä liiketoimintasanomia (esim. tilaus, lähetysilmoitus, vastaanottokuittaus, logistiikkasanomat) Peppol-verkon kautta siten, että yhteinen ontologia varmistaa tietojen yhdenmukaisuuden ja aiemmin luotua dataa voidaan hyödyntää prosessin myöhemmissä vaiheissa (suunnittelu–valmistus–toimitus–asennus).
