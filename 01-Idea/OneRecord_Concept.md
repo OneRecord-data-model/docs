@@ -106,6 +106,8 @@ Prepare Web3 integration for DLT-enabled data sharing and apps ecosystem
 
 <img width="1972" height="1653" alt="2025-10-21_Kuva2" src="https://github.com/user-attachments/assets/ddd0e69f-0d4c-47a6-8a4c-f0bf2ff75e6d" />
 
+<img width="1972" height="1653" alt="2025-10-21_Kuva2" src="https://github.com/user-attachments/assets/057b2e16-8c19-4b15-95fd-6db893b68a60" />
+
 
 Kuva havainnollistaa UBL (Universal Business Language) -rakenteeseen perustuvan OneRecord-ajattelun rakennetta vertauskuvallisesti metsän avulla.
 Selitetään sen keskeiset osat vaiheittain:
