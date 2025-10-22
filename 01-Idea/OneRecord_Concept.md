@@ -102,11 +102,10 @@ Pilot interoperability platform with OneRecord-based traceability
 
 Prepare Web3 integration for DLT-enabled data sharing and apps ecosystem
 
-<img width="1972" height="1653" alt="2025-10-21_Kuva2" src="https://github.com/user-attachments/assets/6f9f4711-09a9-4e4f-8157-fc66ce87fcc0" />
 
-<img width="1972" height="1653" alt="2025-10-21_Kuva2" src="https://github.com/user-attachments/assets/ddd0e69f-0d4c-47a6-8a4c-f0bf2ff75e6d" />
 
-<img width="1972" height="1653" alt="2025-10-21_Kuva2" src="https://github.com/user-attachments/assets/057b2e16-8c19-4b15-95fd-6db893b68a60" />
+<img width="1972" height="1653" alt="2025-10-21_Kuva3" src="https://github.com/user-attachments/assets/debfdfe1-1f7e-45c4-a1f3-694ed682f71c" />
+
 
 
 Kuva havainnollistaa UBL (Universal Business Language) -rakenteeseen perustuvan OneRecord-ajattelun rakennetta vertauskuvallisesti metsän avulla.
