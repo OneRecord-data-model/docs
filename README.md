@@ -22,3 +22,6 @@ Rakennustuotetoimittajana haluan lähettää ja vastaanottaa standardoituja säh
 
   * luokkakaavio OWL-muodossa
   * --> Drawio muodossa esitetty
+
+<img width="691" height="467" alt="Näyttökuva 2025-10-22 090556" src="https://github.com/user-attachments/assets/48e6a02d-b78f-4993-bd4c-ff89f4e19f2f" />
+
