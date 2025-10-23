@@ -39,10 +39,15 @@ The Peppol network provides an international communication infrastructure that e
 
 So far, we have two candidate ontology representations.
 
-**Interoperability platform**
+**1. Interoperability platform**
 [Finnish Construction Industry One Record](https://tietomallit.suomi.fi/model/fcior?ver=0.0.1)
 
-**Concept draft of OneRecord ontology**
+
+
+
+<br>
+
+**2. Concept draft of OneRecord ontology**
 
 ![WhatsApp-Kuva 2025-10-22 klo 17 19 27_e4c49276](https://github.com/user-attachments/assets/73b67127-799c-4c3e-a4a5-92f9ed1cdf29)
 
