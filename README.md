@@ -1,4 +1,18 @@
+Notes:
 
+
+
+
+**OneRecord ontologia**
+*  liiketoimintaan/toimitusketjuun liittyvät osapuolet (organisaatiot)
+*  liiketoiminta-asiakirjojen (sanomien) sisällön (katalogi, tilaus, toimitus, logistiikka sanomat) udelleen käytettävä tieto (OneRecord excelin esittäminen graafina)
+  * lähettäjä
+  * vastaanottaja
+
+  * luokkakaavio OWL-muodossa
+  * --> Drawio muodossa esitetty
+
+<img width="691" height="467" alt="Näyttökuva 2025-10-22 090556" src="https://github.com/user-attachments/assets/48e6a02d-b78f-4993-bd4c-ff89f4e19f2f" />
 
 
 # 1. OneRecord
@@ -18,7 +32,7 @@ Sender – Receiver (e.g., Construction product supplier / contractor, Construct
 As a construction product supplier, I want to send and receive standardized electronic business documents (e.g., order, despatch advice, receipt acknowledgment, logistics messages) through the Peppol network so that a shared ontology ensures data consistency and previously generated data can be reused in later stages of the process (design – manufacturing – delivery – installation).
 
 
-Same same in Finnish :finland:
+$\color{blue}{\textsf{Same same in Finnish}}$ :finland:
 
 
 **Käyttötapausesimerkki:** Ontologiaan perustuva transaktiotiedonvaihto rakennusalalla
@@ -31,20 +45,6 @@ Lähettäjä - vastaanottaja (esim. Rakennustuotetoimittaja/urakoitsija, Rakennu
 
 **Käyttötapaus:**
 Rakennustuotetoimittajana haluan lähettää ja vastaanottaa standardoituja sähköisiä liiketoimintasanomia (esim. tilaus, lähetysilmoitus, vastaanottokuittaus, logistiikkasanomat) Peppol-verkon kautta siten, että yhteinen ontologia varmistaa tietojen yhdenmukaisuuden ja aiemmin luotua dataa voidaan hyödyntää prosessin myöhemmissä vaiheissa (suunnittelu–valmistus–toimitus–asennus).
-
-
-
-
-**OneRecord ontologia**
-*  liiketoimintaan/toimitusketjuun liittyvät osapuolet (organisaatiot)
-*  liiketoiminta-asiakirjojen (sanomien) sisällön (katalogi, tilaus, toimitus, logistiikka sanomat) udelleen käytettävä tieto (OneRecord excelin esittäminen graafina)
-  * lähettäjä
-  * vastaanottaja
-
-  * luokkakaavio OWL-muodossa
-  * --> Drawio muodossa esitetty
-
-<img width="691" height="467" alt="Näyttökuva 2025-10-22 090556" src="https://github.com/user-attachments/assets/48e6a02d-b78f-4993-bd4c-ff89f4e19f2f" />
 
 ---
 
