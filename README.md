@@ -1,4 +1,4 @@
-# OneRecord use case story
+# 2. OneRecord use case story
 
 **Käyttötapausesimerkki:** Ontologiaan perustuva transaktiotiedonvaihto rakennusalalla
 
@@ -27,7 +27,7 @@ Rakennustuotetoimittajana haluan lähettää ja vastaanottaa standardoituja säh
 
 ---
 
-# OneRecord ontology
+# 3. OneRecord ontology
 
 Intro
 
