@@ -46,3 +46,25 @@ So far, we have two candidate ontology representations.
 
 ![WhatsApp-Kuva 2025-10-22 klo 17 19 27_e4c49276](https://github.com/user-attachments/assets/73b67127-799c-4c3e-a4a5-92f9ed1cdf29)
 
+
+
+
+| Aspect                               | FCIOR Model                                                                                                                   | Your Model                                                                                                                                          |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Document coverage**                | Covers the *Catalogue → Order → Despatch Advice → Invoice* chain according to the UBL 2.4 structure.                          | Covers the *Order → OrderRespond → OrderFinance → Invoice* chain, and additionally includes *TransportOrder* and *Delivery*.                        |
+| **Concepts**                         | Primarily uses UBL-type concepts (Order, Despatch, Invoice).                                                                  | Includes AEC- and supply chain–specific concepts such as *Transport*, *PricedItem*, *Total*, and *OrderFinance*.                                    |
+| **Relationships**                    | Not represented as a clear graph but refer to UBL’s semantic relations (e.g., OrderLine, SupplierParty, DeliveryTerms).       | Depicts explicit RDF-type relationships such as `one:hasOrder`, `one:hasDelivery`, `one:hasPrice`, `one:hasTotal`, etc.                             |
+| **Transactional and financial data** | Financial elements (Price, Tax, Amount) are embedded within UBL document structures.                                          | Finance is modeled as a separate layer (`OrderFinance`, `Total`, `Price`), linked to both *Order* and *Transport* levels.                           |
+| **Transport information**            | FCIOR includes references to *Despatch Advice* and *Transport Handling Unit* but lacks a distinct *TransportOrder* structure. | Your model explicitly defines *TransportOrder*, *TransportItem*, and *Transport* classes, each with their own *hasTotal* and *hasPrice* properties. |
+| **Ontological extensibility**        | Aims to integrate existing UBL documents into a unified semantic model.                                                       | Represents an ontologically extensible model that connects business documents (Peppol) with supply chain transactions.                              |
+
+
+| Osa-alue                        | FCIOR-malli                                                                                                                  | Kuvasi malli                                                                                                                           |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dokumenttien kattavuus**      | Kattaa *Catalogue → Order → Despatch Advice → Invoice* -ketjun UBL 2.4 -rakenteen mukaisesti.                                | Kattaa *Order → OrderRespond → OrderFinance → Invoice* -ketjun ja lisäksi *TransportOrder* ja *Delivery*.                              |
+| **Käsitteet**                   | Käyttää pääasiassa UBL-tyyppisiä käsitteitä (Order, Despatch, Invoice).                                                      | Sisältää AEC- ja toimitusketjukohtaisia käsitteitä kuten *Transport*, *PricedItem*, *Total*, *OrderFinance*.                           |
+| **Relaatiot**                   | Eivät näy selkeänä graafina, mutta viittaavat UBL:n semanttisiin suhteisiin (esim. OrderLine, SupplierParty, DeliveryTerms). | Kuva esittää eksplisiittiset RDF-tyyppiset relaatiot: `one:hasOrder`, `one:hasDelivery`, `one:hasPrice`, `one:hasTotal`, jne.          |
+| **Transaktiotieto ja talous**   | Taloudelliset elementit (Price, Tax, Amount) sisältyvät UBL:n dokumenttien sisälle.                                          | Talous on erillisenä kerroksena (`OrderFinance`, `Total`, `Price`) ja liitetty sekä *Order* että *Transport* -tasoille.                |
+| **Kuljetustieto**               | FCIOR sisältää viittauksia *Despatch Advice* ja *Transport Handling Unit*, mutta ei erillistä *TransportOrder*-rakennetta.   | Kuvasi mallissa *TransportOrder*, *TransportItem* ja *Transport* ovat eksplisiittisiä luokkia, joilla on oma *hasTotal* ja *hasPrice*. |
+| **Ontologinen laajennettavuus** | Tavoitteena yhdistää olemassa olevat UBL-dokumentit yhteen semanttiseen malliin.                                             | Esittää ontologisesti laajennettavan mallin, joka yhdistää liiketoimintasanomat (Peppol) ja toimitusketjun transaktiot.                |
+
