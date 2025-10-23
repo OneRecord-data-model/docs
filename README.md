@@ -1,4 +1,25 @@
+
+
+
+# 1. OneRecord
+
+
 # 2. OneRecord use case story
+
+**Use Case Example:** Ontology-Based Transaction Data Exchange in the Construction Industry
+
+**Objective:**
+To enable interoperable and reusable transaction data exchange between the parties of a construction project by utilizing the Peppol network and an ontology-based data model.
+
+**Actors:**
+Sender – Receiver (e.g., Construction product supplier / contractor, Construction product supplier / manufacturer).
+
+**Use Case:**
+As a construction product supplier, I want to send and receive standardized electronic business documents (e.g., order, despatch advice, receipt acknowledgment, logistics messages) through the Peppol network so that a shared ontology ensures data consistency and previously generated data can be reused in later stages of the process (design – manufacturing – delivery – installation).
+
+
+Same same in Finnish :finland:
+
 
 **Käyttötapausesimerkki:** Ontologiaan perustuva transaktiotiedonvaihto rakennusalalla
 
