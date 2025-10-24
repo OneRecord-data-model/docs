@@ -1,4 +1,16 @@
+# October 22, 2025
 
+Notes:
+
+
+**OneRecord ontologia**
+*  liiketoimintaan/toimitusketjuun liittyvät osapuolet (organisaatiot)
+*  liiketoiminta-asiakirjojen (sanomien) sisällön (katalogi, tilaus, toimitus, logistiikka sanomat) udelleen käytettävä tieto (OneRecord excelin esittäminen graafina)
+  * lähettäjä
+  * vastaanottaja
+
+  * luokkakaavio OWL-muodossa
+  * --> Drawio muodossa esitetty
 
 
 ---
